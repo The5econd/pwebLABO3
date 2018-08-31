@@ -1,0 +1,23 @@
+td{
+    text-align: center;
+    width: 100px;
+    height: 100px; 
+}
+div{
+    visibility: hidden;
+}
+table{
+    margin: 2em auto;
+    border: solid black 2px;
+}
+tr:nth-child(even) td:nth-child(odd){
+    background: black;    
+}
+
+tr:nth-child(odd) td:nth-child(even){
+    background: black;
+}
+td:hover{
+    background-color: yellow;
+
+}
