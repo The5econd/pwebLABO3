@@ -1,0 +1,41 @@
+body{
+    background: rgb(175, 173, 173);
+}
+section{
+    width: fit-content;
+    margin: 6% auto;
+    border: solid 1px black;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+div{
+    padding: 10px;
+}
+input[type="submit"]{
+    border-radius: 10px;
+}
+#blog{
+    width: 11em;
+    height: 2em;
+    font-size: 1.5em;
+    border-color: rgb(212, 38, 38);
+    background: white;
+    color: rgb(212, 38, 38);
+}
+#chess{
+    width: 11em;
+    height: 2em;
+    font-size: 1.5em;
+    border-color: orange;
+    background: white;
+    color: orange;
+}
+#button{
+    width: 11em;
+    height: 2em;
+    font-size: 1.5em;
+    border-color: green;
+    background: white;
+    color: green;
+}
