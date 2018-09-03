@@ -1,0 +1,131 @@
+body{
+    background: rgb(175, 173, 173);
+}
+section{
+    width: fit-content;
+    margin: 6% auto;
+    border: solid 1px black;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+input[type="button"]{
+    border-radius: 8px;
+    font-family: Verdana;
+}
+#normal{
+    width: 8em;
+    height: 2.4em;
+    border: none;
+}
+#pequenio{
+    width: 6.5em;
+    height: 1.8em;
+    font-size: 0.7em;
+    border: none;
+}
+#grande{
+    width: 6em;
+    height: 2em;
+    font-size: 2em;
+    border: none;
+}
+article > div > input[type="button"]{
+    width: 8em;
+    height: 2.4em;
+}
+#esmeralda{
+    background: green;
+    color: white;
+    border: none;
+}
+#cielo{
+    background: lightseagreen;
+    color: white;
+    border: none;
+}
+#amatista{
+    background: rgb(209, 26, 209);
+    color: white;
+    border: none;
+}
+#asfalto{
+    background: rgb(139, 127, 127);
+    color: white;
+    border: none;
+}
+#topazio{
+    background: orange;
+    color: white;
+    border: none;
+}
+#rubi{
+    background: rgb(212, 38, 38);
+    color: white;
+    border: none;
+}
+#simple{
+    border-color: black;
+    background: white;
+}
+#esmeralda_borde{
+    border-color: green;
+    color: green;
+    background: white;
+}
+#cielo_borde{
+    border-color: lightseagreen;
+    color: lightseagreen;
+    background: white;
+}
+#amatista_borde{
+    border-color: rgb(209, 26, 209);
+    color:  rgb(209, 26, 209);
+    background: white;
+}
+#asfalto_borde{
+    border-color: rgb(139, 127, 127);
+    color: rgb(139, 127, 127);
+    background: white;
+}
+#topazio_borde{
+    border-color: orange;
+    color: orange;
+    background: white;
+}
+#rubi_borde{
+    border-color: rgb(212, 38, 38);
+    color: rgb(212, 38, 38);
+    background: white;
+}
+#largo_asfalto{
+    width: 9em;
+    height: 2em;
+    font-size: 1.5em;
+    border: none;
+    background:  rgb(139, 127, 127);
+    color: white;
+}
+#borde_del_cielo{
+    width: 10em;
+    height: 2.4em;
+    border-color: lightseagreen;
+    color: lightseagreen;
+    background-color: white;
+}
+#pequenia_esmeralda{
+    width: 13em;
+    height: 1.8em;
+    font-size: 0.7em;
+    border: none;
+    color: white;
+    background: green;
+}
+#gran_borde_rubi{
+    width: 11em;
+    height: 2em;
+    font-size: 1.5em;
+    border-color: rgb(212, 38, 38);
+    background: white;
+    color: rgb(212, 38, 38);
+}
